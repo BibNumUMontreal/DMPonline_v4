@@ -307,12 +307,12 @@ fr:
     edit_password_info: "Si vous souhaitez modifier votre mot de passe, veuillez remplir les champs suivants."
     accept_terms_html: "J’accepte les <a href='/terms'>conditions</a> *"
 
-    text_area: "Zone de texte"
-    text_field: "Case de saisie simple"
-    radio_buttons: "Boutons d’option"
-    checkbox: "Case à cocher"
-    dropdown: "Liste déroulante"
-    multi_select_box: "Case à options multiples"
+    text_area: "Text area"
+    text_field: "Text field"
+    radio_buttons: "Radio buttons"
+    checkbox: "Check box"
+    dropdown: "Dropdown"
+    multi_select_box: "Multi select box"
 
     error: "Erreur!"
     comment: "Commentaire"
