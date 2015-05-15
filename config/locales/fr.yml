@@ -412,7 +412,7 @@ fr:
       tab_plan: "Renseignements sur le plan"
       tab_export: "Exporter"
       export_text_html: "<p>Vous pouvez maintenant télécharger votre plan en divers formats, ce qui peut être utile si vous devez joindre votre plan à une demande de subvention.</br>
-Sélectionnez le format que vous souhaitez utiliser et cliquez sur « Exporter ».</p>"
+Sélectionnez le format que vous souhaitez utiliser et cliquez sur « Exporter ».</p>"
       project_data_contact: "Personne-ressource pour les données du plan"
       project_data_contact_help_text: "Nom (si différent de celui susmentionné), numéro de téléphone et adresse électronique"
       project_name_help_text: "Si vous présentez une demande de financement, inscrivez le nom de la même façon que dans la demande de subvention."
@@ -486,7 +486,7 @@ Sélectionnez le format que vous souhaitez utiliser et cliquez sur « Exporter�
     plan:
       export:
         pdf:
-          question_not_answered: Question sans réponse
+          question_not_answered: Question sans réponse.
           generated_by: Ce document a été généré par DMPonline (http://dmponline.dcc.ac.uk)
         space_used: "Environ %{space_used}% de l’espace disponible utilisé (%{num_pages} pages maximum)"
         project_name: "Nom du projet"
@@ -515,6 +515,7 @@ Sélectionnez le format que vous souhaitez utiliser et cliquez sur « Exporter�
         default_formatting: "(À l’aide des valeurs de mise en forme de PDF par défaut)"
         included_elements: "Éléments inclus"
         pdf_formatting: "Mise en forme du PDF"
+        font: "Police"
         font_face: "Caractère"
         font_size: "Taille"
         margin: "Marge"
